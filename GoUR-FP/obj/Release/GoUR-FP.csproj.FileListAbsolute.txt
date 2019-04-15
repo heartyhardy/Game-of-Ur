@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\bin\Release\GoUR-FP.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\bin\Release\GoUR-FP.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\bin\Release\GoUR-FP.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR_FP.frmSurface.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR_FP.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\bin\Release\GoUR-FP.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\bin\Release\GoUR-FP.application
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Projects\GoUR-FP\GoUR-FP\obj\Release\GoUR-FP.application

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoUR-FP", "GoUR-FP\GoUR-FP.csproj", "{6EFCAC96-67E5-4539-A42D-6A942F1924A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GoUr Setup", "GoUr Setup\GoUr Setup.vdproj", "{6B730BED-D22D-4104-A795-7D9B6A3F6E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFCAC96-67E5-4539-A42D-6A942F1924A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFCAC96-67E5-4539-A42D-6A942F1924A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFCAC96-67E5-4539-A42D-6A942F1924A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFCAC96-67E5-4539-A42D-6A942F1924A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B730BED-D22D-4104-A795-7D9B6A3F6E9E}.Debug|Any CPU.ActiveCfg = Debug
+		{6B730BED-D22D-4104-A795-7D9B6A3F6E9E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
